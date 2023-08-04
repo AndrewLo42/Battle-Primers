@@ -1,5 +1,7 @@
 # Astro Starter Kit: Basics
 
+maybe a project for a bracket running program? Or just a for fun webpage
+
 ```
 npm create astro@latest -- --template basics
 ```
