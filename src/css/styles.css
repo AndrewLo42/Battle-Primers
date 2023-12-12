@@ -1,4 +1,4 @@
-.link-card {
+/* .link-card {
     list-style: none;
     display: flex;
     padding: 0.25rem;
@@ -38,3 +38,8 @@ p {
 .link-card:is(:hover, :focus-within) h2 {
     color: rgb(var(--accent));
 }
+.search-bar {
+    width: 100%;
+    border-radius: 5%;
+    border: gray;
+} */
