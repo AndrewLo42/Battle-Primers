@@ -1,7 +1,7 @@
 import Fuse from "fuse.js";
 import { useState } from "react";
-import Card from "./Card.astro";
-import styles from "../css/styles.css";
+// import "../css/styles.css";
+
 
 const options = {
     keys: ['frontmatter.title', 'frontmatter.description', 'frontmatter.slug'],
@@ -28,33 +28,40 @@ function SearchBar({ searchList }) {
 	}
 
 	return (
-		<>
-			<label>Search</label>
-			<input type="text" value={query} onChange={handleOnSearch} placeholder="Search posts" />
+		<div>
+			<label htmlFor="search" className="mb-2 text-teal-700 text-2xl">Search for your deck/commander</label>
+			<div className="mt-4 relative">
+				<input 
+					type="text"
+					id="search"
+					value={query} 
+					onChange={handleOnSearch}
+					className="p-2 block w-full text-sm
+					text-gray-900 
+					border border-gray-300
+					rounded-lg bg-gray-50
+					focus:outline-none
+					focus:ring-blue-500
+					focus:border-blue-500"
+					placeholder="Search posts" />
+			</div>
 			{query.length > 1 && (
 				<p>
 					Found {posts.length} {posts.length === 1 ? 'result' : 'results'} for '{query}'
 				</p>
 			)}
-			<ul>
+			<ul className="list-none">
 				{posts &&
 					posts.map((post) => (
-						// <li>
-						// 	<a href={`/${post.frontmatter.slug}`}>{post.frontmatter.title}</a>
-						// 	{post.frontmatter.description}
-						// </li>
-						// <ul role="list" class="link-card-grid">
-						// 	<Card href={`/${post.frontmatter.slug}`}
-						// 	title={post.frontmatter.title}
-						// 	body={post.frontmatter.description}>
-						// 	</Card>
-						// </ul>
-						<li class="link-card">
-							<a href={`/${post.frontmatter.slug}`}>
-								<h2>
+						<li className="my-4 py-2 rounded border-solid border-black border w-100
+							hover:bg-teal-300
+							transition duration-300
+						">
+							<a className="p-2 block hover:underline underline-offset-2 transition duration-300" href={`/${post.frontmatter.slug}`}>
+								<h1 className="text-lg">
 									{post.frontmatter.title}
-									<span>&rarr;</span>
-								</h2>
+									<span className="ml-2 text-purple-500">&rarr;</span>
+								</h1>
 								<p>
 									{post.frontmatter.description}
 								</p>
@@ -62,7 +69,7 @@ function SearchBar({ searchList }) {
 						</li>						
 					))}
 			</ul>
-		</>
+		</div>
 	);
 }
 

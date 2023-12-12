@@ -1,19 +1,22 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import styles from "../css/styles.css";
 import Search from '../components/Search.astro';
 const allPosts = await Astro.glob('../posts/*.{md,mdx}');
 const posts = allPosts.filter((post) => !post.frontmatter.draft && post.frontmatter.slug);
 ---
 
-<Layout title="Welcome to Astro.">
-	<main>
-		<h1>Welcome to <span class="text-gradient">Astro</span></h1>
-		<p class="instructions">
-			Welcome to Spiffy Spectrum
-		</p>
-		<Search />
-		<ul role="list" class="link-card-grid">
+<Layout title="Welcome to Battle Primer.">
+	<main class="open-body">
+		<h1 class="open-title">Welcome to <br/><span class="text-gradient">Battle Primers</span></h1>
+		<!-- <p class="instructions">
+			Search your Deck/Commander
+		</p> -->
+		<div class="mx-auto mt-4">
+			<ul role="list" class="link-card-grid">
+		</div>
+		<div class="search-container">
+			<Search />
+		</div>
 			<!-- <Card
 				href=""
 				title="Wow"
@@ -26,15 +29,16 @@ const posts = allPosts.filter((post) => !post.frontmatter.draft && post.frontmat
 </Layout>
 
 <style>
-	main {
+	.open-body {
 		margin: auto;
 		padding: 1.5rem;
-		max-width: 60ch;
+		max-width: 80ch;
 	}
-	h1 {
+	.open-title {
 		font-size: 3rem;
 		font-weight: 800;
 		margin: 0;
+		text-align: center;
 	}
 	.text-gradient {
 		background-image: var(--accent-gradient);
@@ -68,4 +72,8 @@ const posts = allPosts.filter((post) => !post.frontmatter.draft && post.frontmat
 		gap: 1rem;
 		padding: 0;
 	}
+	.search-container {
+		width: 100%;
+	}
+	
 </style>
