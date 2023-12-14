@@ -14,9 +14,9 @@ Ad Naus at a good time.
 A small intro to Blue Farm.
 
 <div class="tab overflow-hidden my-2">
-  <button class="tablinks border p-1" onclick="openTab(event, 'Combo')">Win Combo</button>
-  <button class="tablinks border p-1" onclick="openTab(event, 'Control')">Control Combo</button>
-  <button class="tablinks border p-1" onclick="openTab(event, 'Other')">Other</button>
+  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Combo')">Win Combo</button>
+  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Control')">Control Combo</button>
+  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Other')">Other</button>
 </div>
 
 <div id="Combo" class="tabcontent border border-solid border-stone-600 p-4">
