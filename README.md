@@ -15,6 +15,9 @@ It's always nice to know what combos and remind themselves of the general gamepl
 - Implement backend to be more DRY and move off of md files
 - Dark mode
 - Better styling lol
+    - Thematic pages
+    - Nicer homepage
+    - Better responsiveness to screens
 - Decklists
 - Implement Scryfall API to have actual card info
 - Header on all pages (or a search bar on every page) for better navigation
