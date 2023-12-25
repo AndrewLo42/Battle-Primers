@@ -60,6 +60,13 @@ A magic number is generally 4.
     </div>
 </div>
 
+<p class="mt-2">
+    <h1 class=" text-purple-400"> Opposition Agent </h1>
+    <span>
+     Flash in response to someone searching their deck as a "gotcha," or just play it out as a deterrent for searching. (Searching such as tutors, fetch lands, abilities, etc).
+    </span>
+</p>
+
 <script type="text/javascript">     
     function openTab(evt, tabName) {
 
