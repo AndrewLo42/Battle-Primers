@@ -52,16 +52,6 @@ This is a midrange control deck that fluctuates between explosive board presence
     <div>
         Twinflame, copy with Dualcaster, go infinite.
     </div>
-    <div>
-        Bonus with Lightning bolt. 
-    </div>
-    <ul class="px-4 list-disc">
-        <li>Cast Saw in Half destroying a creature you control. </li>
-        <li> HOLD PRIORITY and cast Dualcaster Mage targeting SiH. </li>
-        <li> Before the last DCM ability triggers, cast Lightning Bolt</li>
-        <li> Now since you will have 2 DCM triggers due to SiH, use one to target SiH, and the other to target Lightning Bolt.</li>
-        <li> Nuke your opponents for the win!</li>
-    </ul>
 </div>
 
 <div id="Breach" class="tabcontent hidden border border-solid border-stone-600 p-4">
@@ -78,7 +68,7 @@ This is a midrange control deck that fluctuates between explosive board presence
 </div>
 
 <p class="mt-2">
-    <h1 class=" text-purple-400"> Opposition Agent </h1>
+    <h1 class=" text-purple-400"> Other Tips </h1>
     <span>
      Unfortunately, you are responsible for helping to stop early wins. A turbo win is rare, but can happen. 
     </span>
