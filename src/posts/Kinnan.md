@@ -32,7 +32,7 @@ Get lots of mana, play Kinnan, activate to flip something big and dumb.
 <div id="Hullbreaker" class="tabcontent hidden border border-solid border-stone-600 p-4">
     <h1 class="text-2xl text-purple-400"> Hullbreaker Horror </h1>
     <div>
-        With 2 mana positive rocks (artifacts that generate mana), one can obtain ininite mana by playing the returning to hand the other rock.
+        With 2 mana positive rocks (artifacts that generate mana), one can obtain ininite mana by playing one rock and then returning to hand the other rock repeatedly, tapping for mana each time in between.
     </div>
 </div>
 
