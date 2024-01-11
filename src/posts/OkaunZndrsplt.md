@@ -45,7 +45,7 @@ This is a midrange control deck that fluctuates between explosive board presence
 </div>
 
 <div id="Dualcaster" class="tabcontent hidden border border-solid border-stone-600 p-4">
-    <h1 class="text-xl text-purple-400"> Dualcaster Mage + Saw in Half / Twinflame </h1>
+    <h1 class="text-xl text-purple-400"> Dualcaster Mage + Twinflame </h1>
     <div>
         Drew your whole deck? Realized your deckbuilder forgot the Thoracle? Try this one as your finisher.
     </div>
