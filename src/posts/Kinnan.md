@@ -10,6 +10,10 @@ summary: Spin to win with your commander.
 
 Get lots of mana, play Kinnan, activate to flip something big and dumb.
 
+<br/>
+<a target="_blank" href="https://www.moxfield.com/decks/2mKiO3kqFk-TGVoN0HtU0w"> Deck List </a>
+<br/>
+
 <div class="tab overflow-hidden my-2">
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Basalt')">Basalt Monolith</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Hullbreaker')">Hullbreaker Horror</button>

@@ -23,6 +23,10 @@ A small intro to Blue Farm.
     Tutor for combo pieces. Otherwise tutor for counterspells (Force of Will, Flusterstorm, Fierce Guardianship, etc) or interaction.
 </p>
 
+<br/>
+<a target="_blank" href="https://www.moxfield.com/decks/qJLc_y9kxkKUjhA7DtmIyA"> Deck List </a>
+<br/>
+
 <div class="tab overflow-hidden my-2">
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Combo')">Win Combo</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Control')">Control Combo</button>
