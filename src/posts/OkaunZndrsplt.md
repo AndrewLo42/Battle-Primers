@@ -22,6 +22,10 @@ This is a midrange control deck that fluctuates between explosive board presence
     Landing a commander early is very important, if the pod isn't too turbo heavy, mulliganing for strong fast mana is good. With some luck, Zndrsplt can refill the hand.
 </p>
 
+<br/>
+<a target="_blank" href="https://www.moxfield.com/decks/4YEInaELiUOje790rSX30w"> Deck List </a>
+<br/>
+
 <div class="tab overflow-hidden my-2">
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Combo')">Main Combo</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Dualcaster')">Dualcaster Combo</button>

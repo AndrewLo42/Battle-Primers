@@ -13,6 +13,8 @@ Our main goal is to have creatures in the graveyard to reanimate them with Slime
 The wincondition is sacrifice Slimefoot and Squee more Dockside Extortionist with Skirk Prospector, Viscera Seer or Goblin Bombardment then from our graveyard activate Slimefoot and Squee sacrificing a saproling token and return to Slimefoot and Squee from our graveyard targeting to Dockside Extortionist. 
 
 <br/>
+<a target="_blank" href="https://www.moxfield.com/decks/b3V2L82aWkCks7E5X9GQHw"> Deck List </a>
+<br/>
 
 <div class="tab overflow-hidden my-2">
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Derevi')">Derevi</button>

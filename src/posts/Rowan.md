@@ -13,6 +13,9 @@ Deal damage to yourself with lands, Ad Nauseum, Plunge Into Darkness, etc and ac
 A magic number is generally 4.
 
 <br/>
+<a target="_blank" href="https://www.moxfield.com/decks/Tagr_NZTQkKFWKNBj3ag9w"> Deck List </a>
+
+<br/>
 <h2 class="text-lg">
     Combos:
 </h2>

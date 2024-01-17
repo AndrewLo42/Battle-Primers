@@ -13,6 +13,9 @@ This deck intends to play early stax to slow the game down while assembling the 
 <br/>
 
 Can opt for a beat down plan. Since our interaction isn't the best at stopping other combos, we might have a bad time against some turbo decks or blue/black decks in general.
+
+<br/>
+<a target="_blank" href="https://www.moxfield.com/decks/-BsbhGCB7kmDRKhUlQ7S_w"> Deck List </a>
 <br/>
 
 <div class="tab overflow-hidden my-2">
