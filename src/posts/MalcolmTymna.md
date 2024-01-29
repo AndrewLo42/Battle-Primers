@@ -24,7 +24,7 @@ A small intro to Blue Farm.
 </p>
 
 <br/>
-<a target="_blank" href="https://www.moxfield.com/decks/qJLc_y9kxkKUjhA7DtmIyA"> Deck List </a>
+<a class="text-sky-300" target="_blank" href="https://www.moxfield.com/decks/qJLc_y9kxkKUjhA7DtmIyA"> Deck List </a>
 <br/>
 
 <div class="tab overflow-hidden my-2">

@@ -11,7 +11,7 @@ summary: Spin to win with your commander.
 Get lots of mana, play Kinnan, activate to flip something big and dumb.
 
 <br/>
-<a target="_blank" href="https://www.moxfield.com/decks/2mKiO3kqFk-TGVoN0HtU0w"> Deck List </a>
+<a class="text-sky-300" target="_blank" href="https://www.moxfield.com/decks/2mKiO3kqFk-TGVoN0HtU0w"> Deck List </a>
 <br/>
 
 <div class="tab overflow-hidden my-2">
