@@ -23,7 +23,7 @@ This is a midrange control deck that fluctuates between explosive board presence
 </p>
 
 <br/>
-<a target="_blank" href="https://www.moxfield.com/decks/4YEInaELiUOje790rSX30w"> Deck List </a>
+<a class="text-sky-300" target="_blank" href="https://www.moxfield.com/decks/4YEInaELiUOje790rSX30w"> Deck List </a>
 <br/>
 
 <div class="tab overflow-hidden my-2">
