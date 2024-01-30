@@ -10,6 +10,10 @@ summary: Mill your opponents or make a big board.
 
 The main focus of this deck is to use the commander, Gyruda, Doom of Depths ETB ability to mill out your opponents and simultaneously play creatures for free, and then to do it again and again with the many clone creatures.
 
+<br/>
+This is a flexible deck that can be played either fast or slow and controlling, and can be played to a couple different win conditions. 
+<br/>
+
 <h2 class="mt-2 text-xl text-purple-400"> General Notes </h2>
 <p>
     Can prepare ahead of time with the handful of top-deck manipulators like Scrollrack or with top-deck tutors like Vampiric Tutor.
@@ -91,9 +95,17 @@ The main focus of this deck is to use the commander, Gyruda, Doom of Depths ETB 
 </div>
 
 <p class="mt-2">
-    <h1 class=" text-purple-400"> Opposition Agent </h1>
+    <h1 class=" text-purple-400"> Other Tips </h1>
     <span>
-     Flash in response to someone searching their deck as a "gotcha," or just play it out as a deterrent for searching. (Searching such as tutors, fetch lands, abilities, etc).
+    Cards like Rest in Peace, Leyline of the Void, and Dauthi Voidwalker seem like they turn off Gyruda's ability of playing cards from your graveyard, but THEY DON’T STOP YOU!
+    <br/>
+    See replacement effects from rulings/gatherer
+    </span>
+    <span>
+    Biggest weakness is Drannith Magistrate, cards that stop ETBs, and other effects like Grafdigger's Cage
+    </span>
+    <span>
+    Gyruda is very mana rock dependent since our mana ask is so large. 
     </span>
 </p>
 
