@@ -30,7 +30,7 @@ A small intro to Blue Farm.
 <div class="tab overflow-hidden my-2">
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Combo')">Win Combo</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Control')">Control Combo</button>
-  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Other')">Other</button>
+  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Wind')">Born Upon a Wind</button>
 </div>
 
 <div id="Combo" class="tabcontent border border-solid border-stone-600 p-4">
@@ -49,17 +49,11 @@ A small intro to Blue Farm.
     </div>
 </div>
 
-<div id="Other" class="tabcontent hidden border border-solid border-stone-600 p-4">
-  <h1 class="text-2xl text-purple-400 mb-2"> Backups </h1>
-  <p>
-    Touch the Spirit Realm to reset Thoracle!
-  </p>
-  <p>
-    Kill your Thoracle and Reanimate it.
-  </p>
-  <p>
-    Old fashioned beat down.
-  </p>
+<div id="Wind" class="tabcontent hidden border border-solid border-stone-600 p-4">
+    <h1 class="text-2xl text-purple-400 mb-2"> Flash it in </h1>
+    <div>
+        Use Born Upon a Wind to flash in your Thass'as Oracle win condition! Can catch opponents off guard. 
+    </div>
 </div>
 
 <p class="mt-2">
@@ -67,6 +61,20 @@ A small intro to Blue Farm.
     <span>
      Flash in response to someone searching their deck as a "gotcha," or just play it out as a deterrent for searching. (Searching such as tutors, fetch lands, abilities, etc).
     </span>
+</p>
+<p class="mt-2">
+    <h1 class=" text-purple-400"> Other Tips </h1>
+    <div>
+        <p>
+            Touch the Spirit Realm to reset Thoracle!
+        </p>
+        <p>
+            Kill your Thoracle and Reanimate it.
+        </p>
+        <p>
+            Old fashioned beat down.
+        </p>
+    </div>
 </p>
 
 <script type="text/javascript">     
