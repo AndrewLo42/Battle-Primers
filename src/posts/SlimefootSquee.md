@@ -8,27 +8,29 @@ summary: Get value pieces and the commander into the graveyard
 
 <h1 class="text-2xl text-teal-400"> GAMEPLAN </h1>
 
-Our main goal is to have creatures in the graveyard to reanimate them with Slimefoot and Squee.
+Our main goal is to have creatures in the graveyard to reanimate them with Slimefoot and Squee. A bit of a glass cannon, we seek to combo quickly and efficiently. Try to find good windows or have the ability to present multiple wins or scary cards in quick succession.
 
-The wincondition is sacrifice Slimefoot and Squee more Dockside Extortionist with Skirk Prospector, Viscera Seer or Goblin Bombardment then from our graveyard activate Slimefoot and Squee sacrificing a saproling token and return to Slimefoot and Squee from our graveyard targeting to Dockside Extortionist. 
+The main wins rely on Dockside generating 2+ treasures with a sacrifice outlet.
+
+The win condition is sacrifice Slimefoot and Squee more Dockside Extortionist with Skirk Prospector, Viscera Seer or Goblin Bombardment then from our graveyard activate Slimefoot and Squee sacrificing a saproling token and return to Slimefoot and Squee from our graveyard targeting to Dockside Extortionist. 
 
 <br/>
 <a class="text-sky-300" target="_blank" href="https://www.moxfield.com/decks/b3V2L82aWkCks7E5X9GQHw"> Deck List </a>
 <br/>
 
 <div class="tab overflow-hidden my-2">
-  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Derevi')">Derevi</button>
+  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Prospector')">Prospector</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Technomancer')">Technomancer</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Caster')">Dual Caster</button>
 </div>
 
-<div id="Derevi" class="tabcontent border border-solid border-stone-600 p-4">
+<div id="Prospector" class="tabcontent border border-solid border-stone-600 p-4">
     <h1 class="text-2xl text-purple-400"> Dockside Extortionist + Skirk Prospector </h1>
     <div>
         Sacrificing Slimeefoot & Squee and Dockside Extortionist with Skirk Prospector, two red mana will be generated.
     </div>
     <div>
-        Need at least three artifacts and/or enchantments for infinite mana with treasures or at least two treasures and/or enchantments for infinite ETB, IST.
+        Need opponents to have at least three artifacts and/or enchantments for infinite mana with treasures or at least two treasures and/or enchantments for infinite ETB, IST.
     </div>
     <br/>
     <h1 class="text-xl text-purple-400"> Finishers </h1>
@@ -59,21 +61,27 @@ The wincondition is sacrifice Slimefoot and Squee more Dockside Extortionist wit
 </div>
 
 <div id="Caster" class="tabcontent hidden border border-solid border-stone-600 p-4">
-    <h1 class="text-xl text-purple-400"> Dualcaster Mage + Saw in Half / Twinflame </h1>
-    <div>
-        SiH or Twinflame, copy with Dualcaster, go infinite.
-    </div>
-    <div>
-        Bonus with Lightning bolt. 
-    </div>
+    <h1 class="text-xl text-purple-400"> Kiki + Hyrax Tower Scout </h1>
     <ul class="px-4 list-disc">
-        <li>Cast Saw in Half destroying a creature you control. </li>
-        <li> HOLD PRIORITY and cast Dualcaster Mage targeting SiH. </li>
-        <li> Before the last DCM ability triggers, cast Lightning Bolt</li>
-        <li> Now since you will have 2 DCM triggers due to SiH, use one to target SiH, and the other to target Lightning Bolt.</li>
-        <li> Nuke your opponents for the win!</li>
+        <li>Activate Kiki-Jiki by tapping it, creating a token copy of Hyrax Tower Scout </li>
+        <li> The Hyrax Tower Scout token enters the battlefield, untapping Kiki-Jiki </li>
+        <li> Repeat for infinite HTS </li>
+        <li> Swing in or sac them all </li>
     </ul>
+    <div>
+        Tutor or reanimate (with Entomb in mind) this combo for a quick win, mana permitting.
+    </div>
 </div>
+
+<p class="mt-2">
+    <h1 class=" text-purple-400"> Other Tips </h1>
+    <span>
+        Birthing Pod is useful to step up to important creatures
+    </span>
+    <span>
+        Broodlord will always get Saw In Half the first time, convoke the SiH to get two more searches. Mana permitting, these can easily be win cons.
+    </span>
+</p>
 
 <script type="text/javascript">     
     function openTab(evt, tabName) {
