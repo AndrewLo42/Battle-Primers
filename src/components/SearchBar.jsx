@@ -10,7 +10,7 @@ const options = {
     threshold: 0.5
 }
 
-function SearchBar({ searchList }) {
+function SearchBar({ searchList, isHeader }) {
 	// User's input
 	const [query, setQuery] = useState('');
 
@@ -29,7 +29,7 @@ function SearchBar({ searchList }) {
 
 	return (
 		<div>
-			<label htmlFor="search" className="mb-2 text-teal-700 text-2xl">Search for your deck/commander</label>
+			<label htmlFor="search" className={"mb-2 text-teal-700 text-2xl" + (isHeader ? ' hidden' : '')}>Search for your deck/commander</label>
 			<div className="mt-4 relative">
 				<input 
 					type="text"
@@ -50,12 +50,12 @@ function SearchBar({ searchList }) {
 					Found {posts.length} {posts.length === 1 ? 'result' : 'results'} for '{query}'
 				</p>
 			)}
-			<ul className="list-none">
+			<ul className={"list-none" + (isHeader ?  ' absolute z-10 bg-slate-50' : ' ') } >
 				{posts &&
 					posts.map((post) => (
 						<li className="my-4 py-2 rounded border-solid border-black border w-100
-							hover:bg-teal-300
-							transition duration-300
+						hover:bg-teal-300
+						transition duration-300
 						">
 							<a className="p-2 block hover:underline underline-offset-2 transition duration-300" href={`/${post.frontmatter.slug}`}>
 								<h1 className="text-lg">

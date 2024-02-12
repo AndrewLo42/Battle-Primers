@@ -1,6 +1,12 @@
 ---
 import SearchBar from './SearchBar';
+
+export interface Props {
+	isHeader: boolean;
+}
+
+const { isHeader } = Astro.props;
 const allPosts = await Astro.glob('../posts/*.{md,mdx}');
 const posts = allPosts.filter(post => (!post.frontmatter.draft && post.frontmatter.slug));
 ---
-<SearchBar client:load searchList={posts}></SearchBar>
+<SearchBar client:load searchList={posts} isHeader={isHeader}></SearchBar>
