@@ -17,7 +17,9 @@ const isHome = Astro.url.pathname === '/';
         </li>
       </ul>
       <ul>
-
+        <li class={"m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700 " + (isHome ? "hidden" : "invisible")}>
+          Home
+        </li>
       </ul>
     </nav>
   </header>

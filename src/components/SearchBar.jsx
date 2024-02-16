@@ -30,7 +30,7 @@ function SearchBar({ searchList, isHeader }) {
 	return (
 		<div>
 			<label htmlFor="search" className={"mb-2 text-teal-700 text-2xl" + (isHeader ? ' hidden' : '')}>Search for your deck/commander</label>
-			<div className="mt-4 relative">
+			<div className="lg:mt-4 relative">
 				<input 
 					type="text"
 					id="search"
