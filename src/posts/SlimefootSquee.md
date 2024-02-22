@@ -21,7 +21,7 @@ The win condition is sacrifice Slimefoot and Squee more Dockside Extortionist wi
 <div class="tab overflow-hidden my-2">
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Prospector')">Prospector</button>
   <button class="tablinks border border-black p-1" onclick="openTab(event, 'Technomancer')">Technomancer</button>
-  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Caster')">Dual Caster</button>
+  <button class="tablinks border border-black p-1" onclick="openTab(event, 'Kiki')">Kiki</button>
 </div>
 
 <div id="Prospector" class="tabcontent border border-solid border-stone-600 p-4">
@@ -55,12 +55,12 @@ The win condition is sacrifice Slimefoot and Squee more Dockside Extortionist wi
         <li> Cast Dockside Extortionist by paying 1R Dockside Extortionist enters the battlefield, creating at least six Treasure tokens. </li>
         <li> Activate three Treasure tokens by tapping and sacrificing them, adding 2B </li>
         <li> Activate Viscera Seer by sacrificing Dockside Extortionist, causing you to scry</li>
-        <li>Activate Ruthless Technomancer by paying , and sacrificing one Treasure tokens, returning Dockside Extortionist from your graveyard to the battlefield</li>
+        <li>Activate Ruthless Technomancer and sacrificing one Treasure token, returning Dockside Extortionist from your graveyard to the battlefield</li>
         <li>Repeat from step 2</li>
     </ul>
 </div>
 
-<div id="Caster" class="tabcontent hidden border border-solid border-stone-600 p-4">
+<div id="Kiki" class="tabcontent hidden border border-solid border-stone-600 p-4">
     <h1 class="text-xl text-purple-400"> Kiki + Hyrax Tower Scout </h1>
     <ul class="px-4 list-disc">
         <li>Activate Kiki-Jiki by tapping it, creating a token copy of Hyrax Tower Scout </li>
@@ -71,6 +71,7 @@ The win condition is sacrifice Slimefoot and Squee more Dockside Extortionist wi
     <div>
         Tutor or reanimate (with Entomb in mind) this combo for a quick win, mana permitting.
     </div>
+    <div>Can do weird lines like copy bowmasters to ping the original bowmasters to allow bowmasters to become a reanimation target. Assumes the only sac outlet is Prospector and have access to ifnitite reanimation already.</div>
 </div>
 
 <p class="mt-2">
@@ -78,6 +79,7 @@ The win condition is sacrifice Slimefoot and Squee more Dockside Extortionist wi
     <span>
         Birthing Pod is useful to step up to important creatures
     </span>
+    <br/>
     <span>
         Broodlord will always get Saw In Half the first time, convoke the SiH to get two more searches. Mana permitting, these can easily be win cons.
     </span>
