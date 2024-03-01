@@ -18,9 +18,12 @@ It's always nice to know what combos and remind themselves of the general gamepl
     - Thematic pages
     - Nicer homepage
     - Better responsiveness to screens
+    - Hero image on pages to better describe decks at first glance
 - Decklists
 - Implement Scryfall API to have actual card info
 - Header on all pages (or a search bar on every page) for better navigation
+- Have submission feature for friends to give me their own deck and primer to make this a living document
+    - Standardize how primers/pages are written
 
 ## 🧞 Commands
 
