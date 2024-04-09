@@ -24,6 +24,9 @@ It's always nice to know what combos and remind themselves of the general gamepl
 - Header on all pages (or a search bar on every page) for better navigation
 - Have submission feature for friends to give me their own deck and primer to make this a living document
     - Standardize how primers/pages are written
+- Considering:
+  - Move page info to a backend instead of having hard coded pages
+    - Requires standardizing primers
 
 ## 🧞 Commands
 
