@@ -1,6 +1,6 @@
 An app made with Astro!
 
-I loan a lot of Magic the Gathering decks to friends who want to play high powered formats, so I decided to make a site full of primers so it's easier for them to play and understand.
+I loan a lot of Magic the Gathering decks and have battle boxes for formats/games to friends who want to play high powered formats, so I decided to make a site full of primers so it's easier for them to play and understand.
 It's always nice to know what combos and remind themselves of the general gameplan when piloting a new and unfamiliar deck, especially in a new format.
 
 ## Goals
