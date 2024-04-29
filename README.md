@@ -7,7 +7,7 @@ It's always nice to know what combos and remind themselves of the general gamepl
 - Have decks I own in all competitive formats/games (priority in order)
   - cEDH, Legacy, Pauper, Modern, casual edh, Yu-Gi-Oh (Edison, GOATS), Dan Dan
 - Create good primers so rather than explaining every deck and the gameplan every so often, the user can pilot the deck somewhat successfully on their own
-- Have primers for decks I don't own as a way to remind myself of opposing gameplans during tournaments
+- Have primers for decks I don't own as a way to remind myself of opposing gameplans
 - Have primers for all my friends' decks so they can loan out decks and also keep a living document of their combos and gameplans
 
 ## Potential Future Features
