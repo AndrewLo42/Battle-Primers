@@ -14,6 +14,7 @@ It's always nice to know what combos and remind themselves of the general gamepl
 - More refined search (like by category or archetype)
 - Implement backend to be more DRY and move off of md files
 - Dark mode
+- Goofy color mode
 - Better styling
     - Thematic pages
     - Nicer homepage
