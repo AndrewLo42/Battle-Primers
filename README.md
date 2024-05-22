@@ -15,7 +15,7 @@ It's always nice to know what combos and remind themselves of the general gamepl
 - Implement backend to be more DRY and move off of md files
 - Dark mode
 - Goofy color mode
-- Better styling 
+- Better styling
     - Thematic pages
     - Nicer homepage
     - Better responsiveness to screens
