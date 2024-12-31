@@ -4,7 +4,7 @@ I loan a lot of Magic the Gathering decks and have battle boxes for formats/game
 It's always nice to know what combos and remind themselves of the general gameplan when piloting a new and unfamiliar deck, especially in a new format.
 
 ## Goals 
-- Have decks I own in all competitive formats/games (priority in order)
+- Have decks I own in all competitive formats/games (priority in order) 
   - cEDH, Legacy, Pauper, Modern, casual edh, Yu-Gi-Oh (Edison, GOATS), Dan Dan, Lorcana
 - Create good primers so rather than explaining every deck and the gameplan every so often, the user can pilot the deck somewhat successfully on their own
 - Have primers for decks I don't own as a way to remind myself of opposing gameplans
